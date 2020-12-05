@@ -1,3 +1,16 @@
 .container {
     background-color: black;
+    color: white;
+    width: 630px;
+    padding: 5px;
+}
+
+.bloque1 {
+    margin: 5px;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+    margin: 5px;
 }
